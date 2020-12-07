@@ -10,3 +10,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 4: Passport Processing](https://adventofcode.com/2020/day/4)          |[✓](src/bin/day4.rs)      |
 |[Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)              |[✓](src/bin/day5.rs)      |
 |[Day 6: Custom Customs](https://adventofcode.com/2020/day/6)               |[✓](src/bin/day6.rs)      |
+|[Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)             |[✓](src/bin/day7.rs)      |
