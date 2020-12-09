@@ -12,3 +12,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 6: Custom Customs](https://adventofcode.com/2020/day/6)               |[✓](src/bin/day6.rs)      |
 |[Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)             |[✓](src/bin/day7.rs)      |
 |[Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)             |[✓](src/bin/day8.rs)      |
+|[Day 9: Encoding Error](https://adventofcode.com/2020/day/9)               |[✓](src/bin/day9.rs)      |
