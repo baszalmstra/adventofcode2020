@@ -7,7 +7,7 @@ fn part1(numbers: &[usize], preamble: usize) -> usize {
         let number = numbers[i];
 
         let mut found = false;
-        for a in i-preamble..i {
+        for a in i - preamble..i {
             for b in a..i {
                 if numbers[a] + numbers[b] == number {
                     found = true;
@@ -37,7 +37,7 @@ fn main() {
 
     for start in 0..numbers.len() {
         let mut acc = numbers[start];
-        let mut end = start+1;
+        let mut end = start + 1;
         let result = loop {
             acc += numbers[end];
             if acc == invalid_number {
