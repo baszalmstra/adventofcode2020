@@ -16,3 +16,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 10: Adapter Array](https://adventofcode.com/2020/day/10)              |[✓](src/bin/day10.rs)     |
 |[Day 11: Seating System](https://adventofcode.com/2020/day/11)             |[✓](src/bin/day11.rs)     |
 |[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)                  |[✓](src/bin/day12.rs)     |
+|[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)             |[✓](src/bin/day13.rs)     |
