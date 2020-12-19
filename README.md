@@ -19,3 +19,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)             |[✓](src/bin/day13.rs)     |
 |[Day 14: Docking Data](https://adventofcode.com/2020/day/14)               |[✓](src/bin/day14.rs)     |
 |[Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)    |[✓](src/bin/day15.rs)     |
+|[Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)         |[✓](src/bin/day16.rs)     |
