@@ -111,7 +111,7 @@ fn main() {
                 .iter()
                 .filter(|rule_idx| !rule_to_field.contains_key(rule_idx));
             if let Some(rule_idx) = rules.next() {
-                if !rules.next().is_some() {
+                if rules.next().is_none() {
                     rule_to_field.insert(*rule_idx, field_idx);
                 }
             }
