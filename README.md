@@ -22,3 +22,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)         |[✓](src/bin/day16.rs)     |
 |[Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)               |[✓](src/bin/day17.rs)     |
 |[Day 18: Operation Order](https://adventofcode.com/2020/day/18)            |[✓](src/bin/day18.rs)     |
+|[Day 19: Monster Messages](https://adventofcode.com/2020/day/19)           |[✓](src/bin/day19.rs)     |
