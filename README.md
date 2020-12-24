@@ -24,3 +24,4 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 18: Operation Order](https://adventofcode.com/2020/day/18)            |[✓](src/bin/day18.rs)     |
 |[Day 19: Monster Messages](https://adventofcode.com/2020/day/19)           |[✓](src/bin/day19.rs)     |
 |[Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)            |[✓](src/bin/day20.rs)     |
+|[Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)        |[✓](src/bin/day21.rs)     |
