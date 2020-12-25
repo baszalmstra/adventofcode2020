@@ -27,4 +27,5 @@ Advent of Code 2020 solutions written in Rust.
 |[Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)        |[✓](src/bin/day21.rs)     |
 |[Day 22: Crab Combat](https://adventofcode.com/2020/day/22)                |[✓](src/bin/day22.rs)     |
 |[Day 23: Crab Cups](https://adventofcode.com/2020/day/23)                  |[✓](src/bin/day23.rs)     |
+|[Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)               |[✓](src/bin/day24.rs)     |
 
